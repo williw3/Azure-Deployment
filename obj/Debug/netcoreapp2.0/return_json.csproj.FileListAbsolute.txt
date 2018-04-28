@@ -1,0 +1,10 @@
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/bin/Debug/netcoreapp2.0/return_json.deps.json
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/bin/Debug/netcoreapp2.0/return_json.runtimeconfig.json
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/bin/Debug/netcoreapp2.0/return_json.runtimeconfig.dev.json
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/bin/Debug/netcoreapp2.0/return_json.dll
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/bin/Debug/netcoreapp2.0/return_json.pdb
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/obj/Debug/netcoreapp2.0/return_json.csproj.CoreCompileInputs.cache
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/obj/Debug/netcoreapp2.0/return_json.AssemblyInfoInputs.cache
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/obj/Debug/netcoreapp2.0/return_json.AssemblyInfo.cs
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/obj/Debug/netcoreapp2.0/return_json.dll
+/Users/leewatterson/Desktop/DojoAssignments/netCore/return_json/obj/Debug/netcoreapp2.0/return_json.pdb
